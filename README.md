@@ -56,17 +56,9 @@ I am deeply engaged in the intersection of Artificial Intelligence, Edge computi
 ### 📂 Highlighted Client Projects
 Over my career as a consultant and developer, I've delivered end-to-end technical solutions (from full-stack web builds to automated digital marketing architectures) for various brands, including:
 *   **Andy's Canine Spa**
-*   **Instituto Everest**
+*   **Cortinas de Acero Baja**
+*   **Cerrajería Locks & Tech **
+*   **CentroCel MX **
 *   **CreArte Digital Marketing**
 
----
 
-### 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sergiomirazo&show_icons=true&theme=radical&hide_border=true" alt="Sergio's GitHub Stats" />
-</div>
-
-<div align="center">
-  <i>"Pushing code from the desert. Building intelligent systems."</i>
-</div>
