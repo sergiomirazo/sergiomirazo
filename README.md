@@ -5,7 +5,7 @@
 I am a freelance software engineer, data scientist and web development consultant based in Hermosillo, Mexico. As the founder of **Mirazo Labs**, I specialize in building complex, scalable architectures, from robust backend systems and multi-platform applications to custom AI models and IoT integrations.
 
 *   🌍 **Location:** Hermosillo, Sonora, Mexico
-*   🏢 **Founder:** Mirazo Labs
+*   🏢 **Founder:** Mirazo Labs, AnipetAI, ARJE Science Club (ARJE Club de Ciencias)
 
 
 ---
