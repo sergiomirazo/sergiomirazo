@@ -22,6 +22,17 @@ I am deeply engaged in the intersection of Artificial Intelligence, Edge computi
 
 ---
 
+### 🧪 Live Demos
+
+Explore a selection of applications I've built for real estate, education, and personal use.
+
+| Project           | Description                                                                                                                                       | Links                                                                                                                          |
+| ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
+| 🏡 **InmoNexus**  | Spanish-language software for real estate agents.                                                                                                 | [Try the demo](https://demos.sergiomirazo.dev/inmonexus/)                                                                      |
+| 🔮 **Azul Tarot** | A tarot reading app with a personal journal. All data is stored locally on your device.                                                           | [Try the demo](https://demos.sergiomirazo.dev/azul-tarot)                                                                      |
+| 🎓 **Excelentia** | A Spanish-language educational platform for teachers and students, built with **Flutter**. All data is stored locally on your device.             | [Try the demo](https://demos.sergiomirazo.dev/excelentia/)                                                                     |
+| 🎮 **Trivia**     | A Spanish-language, Kahoot-style classroom quiz app without usage restrictions. I used it in my physics and mathematics classes at **CBTIS 132**. | [Open the app](https://demos.sergiomirazo.dev/trivia/) · [Teacher dashboard](https://demos.sergiomirazo.dev/trivia/master.php) |
+
 ### 🛠️ Tech Stack & Skills
 
 **Languages:**  
